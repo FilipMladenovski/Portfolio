@@ -76,8 +76,8 @@ export default function About() {
           data-aos="fade-left"
         >
           <img
-            className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl ring-2 ring-base-300 rounded-xl shadow-xl mx-auto" // Responsive width and centering for mobile
-            src="/portfolio/man.png" // Reference the image relative to the public folder
+            className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl ring-2 ring-base-300 rounded-xl shadow-xl mx-auto" 
+            src="/portfolios/man.png"
             alt="Person"
           />
         </div>
@@ -116,7 +116,7 @@ export default function About() {
                 </h2>
                 <p className="mt-3 list-item list-inside">
                   2009 – 2012 Skopje, North Macedonia Electrical Technician for
-                  Computer Technology and Automation SЕТUГS "Mihajlo Pupin" -
+                  Computer Technology and Automation SЕТUGS "Mihajlo Pupin" -
                   Skopje, Skopje
                 </p>
                 <p className="mt-3 list-item list-inside">

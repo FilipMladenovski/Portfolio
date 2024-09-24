@@ -1,6 +1,6 @@
 // src/ScrollToTopButton.js
 import React, { useState, useEffect } from "react";
-import { ArrowUpIcon } from "@heroicons/react/24/outline"; // Importing ArrowUpIcon
+import { ArrowUpIcon } from "@heroicons/react/24/outline";
 
 const ScrollToTopButton = () => {
   const [showScrollButton, setShowScrollButton] = useState(false);
