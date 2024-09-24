@@ -8,7 +8,7 @@ const projects = [
     name: "Car Dealership",
     href: "https://github.com/FilipMladenovski/car-dealership",
     target: "_blank",
-    imageSrc: "/portfolios/car-dealership.png",
+    imageSrc: "/portfolio/car-dealership.png",
     used: "Angular, NestJS, Angular Material",
     description: "A website for buying and selling cars.",
   },
@@ -18,7 +18,7 @@ const projects = [
     href: "https://github.com/FilipMladenovski/REACTJS_Homework",
     target: "_blank",
     imageSrc:
-      "/portfolios/trip-planner.png",
+      "/portfolio/trip-planner.png",
     used: "React and Typescript, TailwindCSS",
     description: "A website for planning a trip.",
   },
@@ -28,7 +28,7 @@ const projects = [
     href: "https://github.com/FilipMladenovski/WORKSHOP/tree/main/Workshop%202",
     target: "_blank",
     imageSrc:
-      "/portfolios/star-wars.png",
+      "/portfolio/star-wars.png",
 
     used: "JavaScript, Bootstrap",
     description: "A website for movies and actors in Starwars.",
@@ -39,7 +39,7 @@ const projects = [
     href: "https://github.com/sedc-codecademy/sp2024-cp02-dsw-1",
     target: "_blank",
     imageSrc:
-      "/portfolios/qintronics.png",
+      "/portfolio/qintronics.png",
     used: "Javascript, HTML & CSS",
     description: "An online e-store webshop.",
   },

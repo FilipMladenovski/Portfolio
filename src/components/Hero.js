@@ -142,7 +142,7 @@ export default function Hero() {
           >
             <div className="grid justify-center items-center">
               <img
-                src="/portfolios/avatar.jpg"
+                src="/portfolio/avatar.jpg"
                 alt="Filip"
                 className="w-72 rounded-full drop-shadow-2xl"
               />

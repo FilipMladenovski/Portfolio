@@ -77,7 +77,7 @@ export default function About() {
         >
           <img
             className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl ring-2 ring-base-300 rounded-xl shadow-xl mx-auto" 
-            src="/portfolios/man.png"
+            src="/portfolio/man.png"
             alt="Person"
           />
         </div>
